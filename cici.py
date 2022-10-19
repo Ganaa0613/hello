@@ -1,3 +1,3 @@
 print("hello")
 
-print("hi pisda min")
+print("hi ")
